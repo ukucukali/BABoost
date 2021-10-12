@@ -23,7 +23,6 @@ MERHABA! Benim adım Uğurcan. Ba-Boost-Ank-5 öğrencisiyim.
 ----
 
 ### Sinif Listesi
-
 -Github adi:galipyildiz[Galip yildiz](https://github.com/galipyildiz)
 -Github adi:Bilgehan Arici [BilgehanArici](https://github.com/BilgehanArici)
 -Github adi:sinaemre[Sina Emre](https://github.com/sinaemre)
